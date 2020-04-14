@@ -1,6 +1,6 @@
 # javascript-euler-problems
 
-JavaScript implementation of [Project Euler](https://projecteuler.net/) problems.
+JavaScript solutions to [Project Euler](https://projecteuler.net/) problems.
 
 | Problem                       | Solution                |
 | ----------------------------- | ----------------------- |
